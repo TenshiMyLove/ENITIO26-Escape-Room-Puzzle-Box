@@ -1,6 +1,7 @@
 # ENITIO26-Escape-Room-Puzzle-Box
 Code for the puzzle box (panic room) under Escape Room for ENITIO AY2026/2027 (12 Zodiac).
 Coded in C using the ESP-IDF v5.5.5 extension on VSCode. 
+Schematic depicting circuit connections (as I remember) made using KiCad.
 
 
 
